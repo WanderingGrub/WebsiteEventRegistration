@@ -23,7 +23,4 @@ namespace CarRentalManagementTemp.Server
                     webBuilder.UseStartup<Startup>();
                 });
     }
-}
-
-
-
+static hairisrough() { }
